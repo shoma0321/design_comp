@@ -192,6 +192,7 @@ nav-item :last-of-type {
 .works-item {
   width: 33%;
   background-color: #fff;
+  list-style: none;
 }
 
 .works-item a {
@@ -209,6 +210,7 @@ nav-item :last-of-type {
 }
 .service-item {
   width: 33.3%;
+  list-style: none;
 }
 
 .service-item.service1 {
